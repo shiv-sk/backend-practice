@@ -141,10 +141,7 @@ dist
 # SvelteKit build / generate output
 .svelte-kit
 
-ecommodels/
-hospitalmodels/
-tsfile.js
-tsfile.ts
+
 
 
 # End of https://www.toptal.com/developers/gitignore/api/node
